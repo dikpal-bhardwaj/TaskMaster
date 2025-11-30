@@ -2,6 +2,10 @@
 
 A modern, full-stack task management application built with the MERN stack. TaskMaster helps you organize your daily tasks with an elegant, glassmorphic dark-themed interface.
 
+## Why I Built This
+
+I wanted to learn the MERN stack and needed a better way to organize my tasks. This project helped me understand full-stack development, authentication, and cloud databases.
+
 ## Features
 
 - **User Authentication** - Secure login and registration system with password management
